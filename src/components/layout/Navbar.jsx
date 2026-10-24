@@ -7,8 +7,7 @@ import { useState } from "react";
 
 const navItems = [
   { label: "Find jobs", href: "/jobs" },
-  { label: "Browse startups", href: "/jobs" },
-  { label: "For company", href: "/employers" },
+  { label: "For Employers", href: "/employers" },
 ];
 
 export default function Navbar() {
